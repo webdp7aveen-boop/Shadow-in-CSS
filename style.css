@@ -1,0 +1,13 @@
+.container {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: yellow;
+  box-shadow: 0px 0px 10px 10px red;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
